@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TASCH</string>
+    <string name="link">https://api.myjson.com/bins/1g7osg</string>
+    <string name="ship">Free Shipping World Wide</string>
+    <string name="col"><b>Colours</b></string>
+    <string name="size"><b>Size</b></string>
+    <string name="rate"><b>Rate the \nproduct</b> </string>
+    <string name="subtotal"><b>Sub-total</b></string>
+    <string name="catlog">Product cataloque</string>
+    <string name="msg">Are sure you want to procced to check out?</string>
+</resources>
